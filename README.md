@@ -11,7 +11,5 @@ pip install numpy pandas matplotlib seaborn streamlit
 streamlit run Dashboard.py
 
 ```
-##Link Dashboard
-```
+## Link Dashboard
 https://dashboard-lazuwarda.streamlit.app/
-```
